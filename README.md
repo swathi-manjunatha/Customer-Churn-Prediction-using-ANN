@@ -1,4 +1,4 @@
-# **Customer Churn Prediction Using Deep Learning**
+# **Telecom Customer Churn Prediction Using Deep Learning**
 
 ## **Overview**
 This project involves building a deep learning model to predict **customer churn** using historical data. The model is designed to help businesses identify at-risk customers and implement strategies to retain them. The project demonstrates data preprocessing, artificial neural network (ANN) modeling, and performance evaluation using industry-standard metrics.
